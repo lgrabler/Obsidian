@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ec6ab858035037f1","type":"group","x":100,"y":-400,"width":380,"height":608,"label":"Backend"},
+		{"id":"c514e88e2aff9463","type":"group","x":-300,"y":-400,"width":376,"height":608,"label":"Frontend"},
+		{"id":"1b515b95a9dedccf","type":"text","text":"## **MongoDB**","x":0,"y":280,"width":160,"height":50,"color":"1"},
+		{"id":"3059f23539f2e82e","type":"text","text":"# ==Roter Faden - Kommunikation der Komponenten==","x":-174,"y":-520,"width":508,"height":55}
+	],
+	"edges":[
+		{"id":"8e5ccbc6e8535607","fromNode":"1b515b95a9dedccf","fromSide":"bottom","toNode":"c514e88e2aff9463","toSide":"bottom"},
+		{"id":"36aecc9955e10ca7","fromNode":"c514e88e2aff9463","fromSide":"bottom","toNode":"1b515b95a9dedccf","toSide":"bottom"},
+		{"id":"9c2c1e86378958fd","fromNode":"ec6ab858035037f1","fromSide":"bottom","toNode":"1b515b95a9dedccf","toSide":"bottom"}
+	]
+}

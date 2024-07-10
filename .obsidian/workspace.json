@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1aa5b964a1385970",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65c4a31fc1d4fa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e841521da6fbc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL-Übungen/SQL Zoo/SELECT Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153e4c6270f387d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "28c34b1742f85bce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40da459ab50203f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "078cbb59092fe30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41260853ae7ff015",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a3e79c3e25f1171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0bc82cd133b5a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "right": {
+    "id": "4441998b0999e994",
+    "type": "split",
+    "children": [
+      {
+        "id": "0504ae49960af683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce22bb2cf29d69b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44cf7446531f78dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a1434719d0ced8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9457e4cd77c0d52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "153e4c6270f387d1",
+  "lastOpenFiles": [
+    "README.md",
+    "SQL-Übungen/SQL Zoo/SELECT from World.md",
+    "SQL-Übungen/SQL Zoo/SELECT Basics.md",
+    "Unbenannt.md",
+    "Roter Faden - Grafik.canvas",
+    "2024-07-10.md",
+    "SQL-Übungen/SQL Zoo",
+    "SQL-Übungen",
+    "BS7 - Projekt (2.LJ)/Dateien und deren Aufgaben.md",
+    "BS7 - Projekt (2.LJ)/BS7 - Projekt.md",
+    "Storybook - Tests.md",
+    "Berufsschule/Pasted image 20240114155526.png",
+    "2024-06-25.md",
+    "env.md",
+    "2024-06-19.md",
+    "Berufsschule/Pasted image 20240114151436 1.png",
+    "Glossar.md",
+    "BS7 - Projekt (2.LJ)",
+    "Toggl-Weclapp Sync/apps/backend/src/core/Unbenannt/Unbenannt.md",
+    "Toggl-Weclapp Sync/apps/backend/src/core/Unbenannt",
+    "Berufsschule/IT-Sys_Notizbuch.pdf",
+    "Pr",
+    "Toggl-Weclapp Sync/apps/backend/src/weclapp",
+    "Toggl-Weclapp Sync/apps/backend/src/core",
+    "Toggl-Weclapp Sync/apps/backend/src/toggl",
+    "Berufsschule/Zusammenfassung IT-Sys -- 10. Klasse.md",
+    "Toggl-Weclapp Sync/apps/backend/coverage",
+    "2024-01-16.md",
+    "Pasted image 20240114152131.png",
+    "Pasted image 20240114151938.png",
+    "Berufsschule/Unbenannt.canvas",
+    "Pasted image 20240114151919.png",
+    "2024-01-14.md",
+    "Pasted image 20240114151408.png",
+    "Welcome.md",
+    "2024-01-12.md"
+  ]
+}
