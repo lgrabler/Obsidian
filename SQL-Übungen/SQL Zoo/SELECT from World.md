@@ -74,3 +74,6 @@
 		name  LIKE '%o%' AND 
 		name  LIKE '%u%' AND 
 		name NOT LIKE '% %'
+
+
+Test 123

@@ -23,8 +23,12 @@
             "id": "153e4c6270f387d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL-Übungen/SQL Zoo/SELECT from World.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL-Übungen/SQL Zoo/SELECT from World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL-Übungen/SQL Zoo/SELECT from World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL-Übungen/SQL Zoo/SELECT from World.md"
+              }
             }
           }
         ],
